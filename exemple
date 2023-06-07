@@ -1,0 +1,14 @@
+let a = 0;
+let b = "bonjour"
+
+console.log(typeof(a))
+console.log(typeof(b))
+
+let c = a+b
+let d = b+a
+
+console.log(typeof(c))
+console.log(c)
+
+console.log(typeof(d))
+console.log(d)
